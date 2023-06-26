@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <div class="header__main">
-      <div class="header__title"><img src="/nomad-duken/img/logo.png" alt="" /> DÜKEN</div>
+      <div class="header__title"><img src="/img/logo.png" alt="" /> DÜKEN</div>
       <!-- <div class="header__login">
                 <v-btn class="ma-2 text-black" color="orange-darken-2" >
                     <v-icon start icon="mdi-arrow-left"></v-icon>
