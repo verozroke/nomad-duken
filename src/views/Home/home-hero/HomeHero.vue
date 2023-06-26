@@ -1,5 +1,5 @@
 <template>
-    <v-parallax src="/img/homehero.jpg" id="HomeHero" class="hero">
+    <v-parallax src="/nomad-duken/img/homehero.jpg" id="HomeHero" class="hero">
         <div class="hero__overlay"></div>
         <div class="hero__container">
             <div class="hero__title">
